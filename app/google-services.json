@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "131539373512",
+    "firebase_url": "https://minni-ed4a7.firebaseio.com",
+    "project_id": "minni-ed4a7",
+    "storage_bucket": "minni-ed4a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131539373512:android:a446cb02a4344617",
+        "android_client_info": {
+          "package_name": "com.brandmore.minni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131539373512-fqrsqabg6onnl7bk9bceagdduv03cd32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brandmore.minni",
+            "certificate_hash": "61da15e0abf78d2abc2f952e305358f25caf90b2"
+          }
+        },
+        {
+          "client_id": "131539373512-u1u498r0jjkbl4snhtcoje8vbvjhao5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2pN2AiBtmAgS0cvdWBU0lD1PtsbMvqpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131539373512-u1u498r0jjkbl4snhtcoje8vbvjhao5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
